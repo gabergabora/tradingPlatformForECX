@@ -7,7 +7,7 @@ import { Govern, Laws, Message, Works } from "./About";
 import Coffees from "../asset/animated/coffee.png";
 import CoffeeBeans from "../asset/animated/coffee-beans.png";
 import Coffee1 from "../asset/animated/coffee-beans1.png";
-import Coffee2 from "../asset/animated/coffee-beans2.png";
+import Coffee2 from "../asset/animated/coffee-beans2.png";         
 import Coffee3 from "../asset/animated/coffee-beans3.png";
 import Coffee4 from "../asset/animated/coffee-beans4.png";
 import Coffee5 from "../asset/animated/coffee-beans5.png";
